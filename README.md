@@ -92,13 +92,13 @@ client_socket.close()
 #OUTPUT:
 SERVER.PY
 ```
-<img width="604" height="284" alt="image" src="https://github.com/user-attachments/assets/516b3cc5-52ba-425c-a793-f49ca6d696cc" />
+<img width="455" height="251" alt="image" src="https://github.com/user-attachments/assets/eb860bd6-4259-4451-b282-4dbb7eeb91f2" />
 
 
 ```
 client.py
 ```
-<img width="618" height="254" alt="image" src="https://github.com/user-attachments/assets/76ec651d-8162-4b20-a67e-431bf1a6b930" />
+<img width="506" height="260" alt="image" src="https://github.com/user-attachments/assets/705b382f-fabc-4a34-b013-06555a470629" />
 
 
 ## Result:
