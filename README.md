@@ -93,6 +93,8 @@ client_socket.close()
 SERVER.PY
 ```
 <img width="604" height="284" alt="image" src="https://github.com/user-attachments/assets/516b3cc5-52ba-425c-a793-f49ca6d696cc" />
+
+
 ```
 client.py
 ```
